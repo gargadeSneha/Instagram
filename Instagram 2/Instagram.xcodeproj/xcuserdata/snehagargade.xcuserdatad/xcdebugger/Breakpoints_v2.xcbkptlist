@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DAB4B4CE-C7D4-465B-86D0-3D919925D50F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "uploadVideo(fromItem:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - 9d8c04025f2c5e21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Instagram.UploadPostViewModel.uploadPost(caption: Swift.String) async throws -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - 9d8c04025f2c5e21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Instagram.UploadPostViewModel.uploadPost(caption: Swift.String) async throws -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "672">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - 9d8c04025f2c5e21"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Instagram.UploadPostViewModel.uploadPost(caption: Swift.String) async throws -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "996">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - e295e88988ef5bfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(5) suspend resume partial function for Instagram.UploadPostViewModel.uploadVideo(fromItem: Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) async -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - 78f4e2f91070bf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(6) await resume partial function for Instagram.UploadPostViewModel.uploadVideo(fromItem: Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) async -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - a1e8268d12049ffb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for Instagram.UploadPostViewModel.uploadVideo(fromItem: Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) async -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - 64c25490645dd3f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(9) suspend resume partial function for Instagram.UploadPostViewModel.uploadVideo(fromItem: Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) async -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "348">
+               </Location>
+               <Location
+                  uuid = "12C80245-A2E4-43FA-BC09-C5B6BAE31724 - e756f946f937a632"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for Instagram.UploadPostViewModel.uploadVideo(fromItem: Swift.Optional&lt;_PhotosUI_SwiftUI.PhotosPickerItem&gt;) async -&gt; ()"
+                  moduleName = "Instagram"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/snehagargade/Documents/Swift/Instagram%202/Instagram/Core/UploadPost/ViewModel/UploadPostViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
